@@ -7,7 +7,7 @@
 
 ```javascript
 {
-my-blog:https://bejewelled-pegasus-22bd26.netlify.app/
+my-blog :"https://bejewelled-pegasus-22bd26.netlify.app/"
 }
 
 ```
