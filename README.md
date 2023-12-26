@@ -1,3 +1,5 @@
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+
 - 👋 Hi, I’m @Maneth-ii;
 - 👀 I’m interested in web development;
 - 🌱 I’m_currently_learning ['React'];
