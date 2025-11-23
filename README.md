@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Maneth-ii/Maneth-ii/main/assets/profile-header.png" alt="Profile Header Image (Optional: Create a custom banner!)" width="100%">
+  <!-- <img src="https://raw.githubusercontent.com/Maneth-ii/Maneth-ii/main/assets/profile-header.png" alt="Profile Header Image (Optional: Create a custom banner!)" width="100%"> -->
   <br/>
   <h1>👋 Hi, I'm @Maneth-ii!</h1>
   <p>Blockchain Developer | Solidity Enthusiast</p>
@@ -38,14 +38,3 @@
          alt="Top Languages" 
          height="180px"/>
 </p>
-
-
-<div align="center">
-    <a href="https://github.com/Maneth-ii">
-        <img src="https://img.shields.io/github/followers/Maneth-ii?label=Follow&style=for-the-badge&color=2088ff" alt="GitHub Follow" />
-    </a>
-    
-    <img src="https://komarev.com/ghpvc/?username=Maneth-ii&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-    <br/>
-    <p><i>Code is the law, and I'm learning to write the constitution.</i></p>
-</div>
