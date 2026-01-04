@@ -1,40 +1,74 @@
 <div align="center">
-  <!-- <img src="https://raw.githubusercontent.com/Maneth-ii/Maneth-ii/main/assets/profile-header.png" alt="Profile Header Image (Optional: Create a custom banner!)" width="100%"> -->
+  <!-- <img src="https://raw.githubusercontent.com/Maneth-ii/Maneth-ii/main/assets/profile-header.png" alt="Profile Header Image" width="100%"> -->
   <br/>
   <h1>👋 Hi, I'm @Maneth-ii!</h1>
-  <p>Blockchain Developer | Solidity Enthusiast</p>
+  <p>
+    Blockchain Developer • Full-Stack Web Developer • Solidity Enthusiast
+  </p>
 </div>
 
 ---
 
-### 🧐 About Me
+## 🧐 About Me
 
-* **✨ Focused on:** Decentralization, Smart Contracts, and Web3 solutions.
-* **🌱 Currently Learning:** Deep diving into **Solidity** for secure and efficient contract development.
-* **🤝 Open to:** Collaborating on innovative DeFi, NFT, or DAO projects.
-* **📫 How to reach me:** [https://www.linkedin.com/in/maneth-bandara-133a0a20a/]
+I’m a **full-stack developer transitioning deep into Web3**, with hands-on experience building scalable web applications and smart contracts.
 
----
-
-### 🛠️ My Blockchain Toolkit
-
-| Category | Tools / Languages |
-| :--- | :--- |
-| **Smart Contracts** | Solidity, Vyper (future) |
-| **Development Env** | Hardhat, Ganache, Truffle |
-| **Web3 & Frontend** | JavaScript, React, Ethers.js, Web3.js |
-| **Testing** | Mocha, Chai |
+- **✨ Focused on:** Decentralization, Smart Contracts, DApps, Web3 Architecture  
+- **🧠 Background:** React, Node.js, Express.js, REST APIs  
+- **🌱 Currently Learning:** Advanced Solidity, smart contract security & gas optimization  
+- **🤝 Open to:** DeFi, NFT, DAO & Web3 collaborations  
+- **📫 LinkedIn:**  
+  👉 https://www.linkedin.com/in/maneth-bandara-133a0a20a/
 
 ---
 
-### 🔥 GitHub Stats & Activity
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Maneth-ii&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" 
-         alt="Maneth-ii GitHub Stats" 
-         height="180px"/>
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneth-ii&layout=compact&langs_count=5&theme=tokyonight" 
-         alt="Top Languages" 
-         height="180px"/>
+### 🔗 Blockchain & Web3
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity" />
 </p>
+
+
+---
+
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
+</p>
+
+---
+
+### 🧩 Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+### 🐍 Other Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,rust,java,c#,golang" />
+</p>
+
+---
+
+### 🧪 Testing & Dev Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,remix" />
+</p>
+
+---
+
+## 🚀 What I’m Working Toward
+
+- Building **production-ready decentralized applications**
+- Writing **secure & gas-efficient smart contracts**
+- Contributing to **open-source Web3 projects**
+- Preparing for **blockchain / software engineering internships**
+
+
+
+## 🧠 Philosophy
+
+> *“Build practical systems first. Then decentralize them properly.”*
